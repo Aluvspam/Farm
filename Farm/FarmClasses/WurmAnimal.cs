@@ -10,6 +10,7 @@ namespace FarmClasses
     class WurmAnimal : IAnimal
     {
         Species species;
+        Attributes attribute;
         public Species Species
         {
             get

@@ -11,20 +11,20 @@ namespace FarmClasses.Enums
         fightFiercely,
         fleeterMovementThanNormal,
         strongBody,
+        toughBugger,
         lightningMovement,
         carryMoreThanAverage,
         veryStrongLegMuscles,
+        keenSenses,
+        veryUnmotivated,
+        legsOfDifferentLength,
+        malformedHindlegs,
         overlyAggresive,
         constantlyhungry,
-        veryUnmotivated,
         unusuallyStrongWilled,
-        toughBugger,
         feebleAndUnhealthy,
-        legsOfDifferentLength,
+        someIllness,
         unusuallyStrongAndHealthy,
-        keenSenses,
-        certainSparkInTheEyes,
-        malformedHindlegs,
-        someIllness
+        certainSparkInTheEyes
     }
 }

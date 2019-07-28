@@ -8,6 +8,8 @@ namespace FarmClasses
 {
     public class Action
     {
+        string horseIdentifier = "Horses like this one have many uses.";
+
         public List<IAnimal> ReadAnimals(string text)
         {
             return new List<IAnimal>();

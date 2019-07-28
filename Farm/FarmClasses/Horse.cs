@@ -13,6 +13,20 @@ namespace FarmClasses
         public Horse() : base(Species.horse)
         {
         }
+
+        public Horse(string branded, List<Attributes> Skills, string caredFor, Horse father, Horse mother, KeyValuePair<DateTime, Age> age, Color color) : base(Species.horse)
+        {
+            this.branded = branded;
+            this.Skills = Skills;
+            this.caredFor = caredFor;
+            //this.name = name;
+            this.father = father;
+            this.mother = mother;
+            this.ages = new Dictionary<DateTime, Age>();
+            this.ages.Add(age.Key, age.Value);
+            this.color = color;
+        }
+
         public string Age
         {
             get

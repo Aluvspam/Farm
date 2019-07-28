@@ -8,6 +8,9 @@ namespace FarmClasses
 {
     public class Action
     {
-
+        public List<IAnimal> ReadAnimals(string text)
+        {
+            return new List<IAnimal>();
+        }
     }
 }

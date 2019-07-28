@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FarmClasses
 {
-    interface IAnimal
+    public interface IAnimal
     {
         Species Species { get; }
     }

@@ -10,11 +10,6 @@ namespace FarmClasses
     public class Horse : WurmAnimal
     {
         Color color;
-        string caredFor;
-        string name;
-        Horse father;
-        Horse mother;
-        Dictionary<DateTime, Age> ages;
         public Horse() : base(Species.horse)
         {
         }

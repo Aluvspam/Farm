@@ -14,7 +14,7 @@ namespace FarmClasses
         {
             var result = new List<IAnimal>();
             List<string> Lines = new List<string>();
-            text.Replace(Environment.NewLine, "\n");
+            text = text.Replace(Environment.NewLine, "\n");
             Lines = text.Split('\n').ToList();
             for (int i = 0; i < Lines.Count; i++)
             {
@@ -24,18 +24,18 @@ namespace FarmClasses
                     var branded = "";
                     while (true)
                     {
-                        if(Lines[j].Contains("It has been branded by"))
+                        if (Lines[j].Contains("It has been branded by"))
                         {
                             branded = Lines[j].Substring(68).Trim('.');
-                            
+
                         }
                     }
                     //TO DO: finish this method
-                    
+
                 }
                 else if (Lines[i].Contains(unicornIdentifier))
                 {
-                   
+
                     //TO DO: finish this method
                 }
             }

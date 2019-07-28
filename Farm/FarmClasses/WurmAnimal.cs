@@ -9,6 +9,7 @@ namespace FarmClasses
 {
     public class WurmAnimal : IAnimal
     {
+        protected string branded;
         protected Species species;
         protected List<Attributes> Skills ;
         protected string caredFor;

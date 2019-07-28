@@ -15,6 +15,7 @@ namespace Farm
         [STAThread]
         static void Main()
         {
+            new FarmAction().ReadAnimals("[09:38:47] Horses like this one have many uses." + Environment.NewLine + "[09:38:47] It has been branded by and belongs to the settlement of Bragadiru." + Environment.NewLine + "[09:38:47] It is being taken care of by Andrei.");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());

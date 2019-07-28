@@ -50,6 +50,7 @@
     <Compile Include="Horse.cs" />
     <Compile Include="IAnimal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Unicorn.cs" />
     <Compile Include="WurmAnimal.cs" />
   </ItemGroup>
   <ItemGroup>

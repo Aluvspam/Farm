@@ -1,16 +1,16 @@
-﻿using FarmClasses.Enums;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using FarmClasses.Enums;
 
 namespace FarmClasses
 {
-    public class Horse : WurmAnimal
+    public class Unicorn : WurmAnimal
     {
-        Color color;
-        public Horse() : base(Species.horse)
+        string SpecialAttribute;
+        public Unicorn() : base(Species.unicorn)
         {
         }
         public string Age

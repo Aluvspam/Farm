@@ -9,8 +9,13 @@ namespace FarmClasses
 {
     public class WurmAnimal : IAnimal
     {
-        Species species;
-        List<Attributes> Skills ;
+        protected Species species;
+        protected List<Attributes> Skills ;
+        protected string caredFor;
+        protected string name;
+        protected Horse father;
+        protected Horse mother;
+        protected Dictionary<DateTime, Age> ages;
         public Species Species
         {
             get

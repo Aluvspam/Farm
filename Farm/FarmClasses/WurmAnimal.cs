@@ -11,7 +11,7 @@ namespace FarmClasses
     {
         protected string branded;
         protected Species species;
-        protected List<Attributes> Skills ;
+        protected List<Attributes> Skills;
         protected string caredFor;
         protected string name;
         protected Horse father;
@@ -28,6 +28,10 @@ namespace FarmClasses
         {
             this.species = species;
             Skills = new List<Attributes>();
+        }
+        public void SetName(string name)
+        {
+            this.name = name;
         }
     }
 }

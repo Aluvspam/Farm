@@ -14,8 +14,20 @@ namespace FarmClasses
         {
             List<string> Lines = new List<string>();
             text.Replace(Environment.NewLine, "\n");
-            Lines = text.Split('\n').ToList();
-            //TO DO: finish this method
+            for (int i = 0; i < Lines.Count; i++)
+            {
+                if (Lines[i].Contains(horseIdentifier))
+                {
+                    Lines = text.Split('\n').ToList();
+                    //TO DO: finish this method
+                }
+                else if (Lines[i].Contains(unicornIdentifier))
+                {
+                    Lines = text.Split('\n').ToList();
+                    //TO DO: finish this method
+                }
+            }
+            
             return new List<IAnimal>();
         }
 

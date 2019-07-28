@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FarmClasses.Enums
 {
-    enum Color
+    public enum Color
     {
         grey,
         brown,

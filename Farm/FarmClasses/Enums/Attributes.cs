@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FarmClasses.Enums
 {
-    enum Attributes
+    public enum Attributes
     {
         fightFiercely,
         fleeterMovementThanNormal,
@@ -28,3 +28,4 @@ namespace FarmClasses.Enums
         certainSparkInTheEyes
     }
 }
+  

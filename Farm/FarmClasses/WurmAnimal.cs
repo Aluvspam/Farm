@@ -7,10 +7,10 @@ using FarmClasses.Enums;
 
 namespace FarmClasses
 {
-    class WurmAnimal : IAnimal
+    public class WurmAnimal : IAnimal
     {
         Species species;
-        Attributes attribute;
+        List<Attributes> Skills ;
         public Species Species
         {
             get
@@ -21,6 +21,7 @@ namespace FarmClasses
         public WurmAnimal(Species species)
         {
             this.species = species;
+            Skills = new List<Attributes>();
         }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FarmClasses.Enums
 {
-    enum Age
+    public enum Age
     {
         youngFoal,
         adolescentFoal,

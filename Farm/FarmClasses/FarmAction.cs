@@ -41,7 +41,7 @@ namespace FarmClasses
                         }
                         if (Lines[j].Contains("She"))
                         {
-                            gender = Gender.She;                            
+                            gender = Gender.She;   //TO DO: increment j after we read the line that gives us gender                         
                         }
                         if (Lines[j].Contains("strong"))
                         {

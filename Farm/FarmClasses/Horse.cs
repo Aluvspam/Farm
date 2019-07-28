@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FarmClasses
 {
-    class Horse : WurmAnimal
+    public class Horse : WurmAnimal
     {
         Color color;
         string caredFor;

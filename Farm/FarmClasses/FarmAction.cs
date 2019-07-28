@@ -25,7 +25,7 @@ namespace FarmClasses
                     var branded = "";
                     var caredFor = "";
                     Gender gender = Gender.He;
-                    Color colour;
+                    var colour = "";
                     List<Attributes> Skills = new List<Attributes>();
                     while (true)
                     {
@@ -49,7 +49,7 @@ namespace FarmClasses
                         }
                         if (Lines[j].Contains("Its colour"))
                         {
-                            caredFor = Lines[j].Substring(25).Trim('.');
+                            colour = Lines[j].Substring(25).Trim('.');
                             j++;
                         }
                     }

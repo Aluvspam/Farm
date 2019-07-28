@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Action.cs" />
+    <Compile Include="FarmAction.cs" />
     <Compile Include="Enums\Age.cs" />
     <Compile Include="Enums\Attributes.cs" />
     <Compile Include="Enums\Color.cs" />

@@ -6,10 +6,17 @@ using System.Threading.Tasks;
 
 namespace FarmClasses
 {
-    public class Action
+    public class FarmAction
     {
         public List<IAnimal> ReadAnimals(string text)
         {
+            List<string> Lines = new List<string>();
+            string[] line = text.Split('\n');
+            for (int i = 0; i < line.Length; i++)
+            {
+                Lines.Add(line[i]);
+            }
+
             return new List<IAnimal>();
         }
     }

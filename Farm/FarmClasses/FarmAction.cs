@@ -13,12 +13,9 @@ namespace FarmClasses
         public List<IAnimal> ReadAnimals(string text)
         {
             List<string> Lines = new List<string>();
-            string[] line = text.Split('\n');
-            for (int i = 0; i < line.Length; i++)
-            {
-                Lines.Add(line[i]);
-            }
-
+            text.Replace(Environment.NewLine, "\n");
+            Lines = text.Split('\n').ToList();
+            //TO DO: finish this method
             return new List<IAnimal>();
         }
 

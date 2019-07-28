@@ -12,5 +12,10 @@ namespace FarmClasses
         {
             return new List<IAnimal>();
         }
+
+        public List<IAnimal> ReadAnimalsFromFile(string path)
+        {
+            return new List<IAnimal>();
+        }
     }
 }

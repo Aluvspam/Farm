@@ -9,5 +9,6 @@ namespace FarmClasses.Enums
     public enum Species
     {
         horse,
+        unicorn
     }
 }

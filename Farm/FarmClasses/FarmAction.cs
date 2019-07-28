@@ -12,23 +12,35 @@ namespace FarmClasses
         const string unicornIdentifier = "A bright white unicorn with a slender twisted horn.";
         public List<IAnimal> ReadAnimals(string text)
         {
+            var result = new List<IAnimal>();
             List<string> Lines = new List<string>();
             text.Replace(Environment.NewLine, "\n");
+            Lines = text.Split('\n').ToList();
             for (int i = 0; i < Lines.Count; i++)
             {
                 if (Lines[i].Contains(horseIdentifier))
                 {
-                    Lines = text.Split('\n').ToList();
+                    var j = i + 1;
+                    var branded = "";
+                    while (true)
+                    {
+                        if(Lines[j].Contains("It has been branded by"))
+                        {
+                            branded = Lines[j].Substring(68).Trim('.');
+                            
+                        }
+                    }
                     //TO DO: finish this method
+                    
                 }
                 else if (Lines[i].Contains(unicornIdentifier))
                 {
-                    Lines = text.Split('\n').ToList();
+                   
                     //TO DO: finish this method
                 }
             }
-            
-            return new List<IAnimal>();
+
+            return result;
         }
 
         public List<IAnimal> ReadAnimalsFromFile(string path)

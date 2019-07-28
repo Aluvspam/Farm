@@ -1,0 +1,117 @@
+[09:43:16] You will now fight defensively.
+[09:43:17] Welcome back, Andrei! PVE server, no gm powers 7/24 run. 5x skillgain, 6x action timers. Creative modes, no kingdoms
+[09:43:17] You enter Bragadiru.
+[09:43:17] You enter Freedom Isles.
+[09:43:17] You feel the presence of Vynora.
+[09:43:17] 2 other players are online. You are on Dio's normalmonsters 5x/6x pvp (3 totally in Wurm).
+[09:43:17] Type /help for available commands.
+[09:43:20] You are no longer invulnerable.
+[09:43:33] Horses like this one have many uses.
+[09:43:33] She is very strong and has a good reserve of fat.
+[09:43:33] This creature could use some grooming.
+[09:43:33] It has fleeter movement than normal. It has a strong body. It has lightning movement. It can carry more than average. It has very strong leg muscles. 
+[09:43:33] Its colour is black.
+[09:43:33] Her mother is the aged fat Kiablood. Her father is the venerable fat Runebony. 
+[09:43:38] Horses like this one have many uses.
+[09:43:38] He is very strong and has a good reserve of fat.
+[09:43:38] This creature could use some grooming.
+[09:43:38] It has fleeter movement than normal. It has lightning movement. It can carry more than average. It has very strong leg muscles. It has keen senses. 
+[09:43:38] Its colour is gold.
+[09:43:38] His mother is the venerable fat Sararain. His father is an old fat horse. 
+[09:43:41] Horses like this one have many uses.
+[09:43:41] It is being taken care of by Akara.
+[09:43:41] She is very strong and has a good reserve of fat.
+[09:43:41] This creature could use some grooming.
+[09:43:41] It has fleeter movement than normal. It has lightning movement. It has very strong leg muscles. 
+[09:43:41] Its colour is grey.
+[09:43:41] Her father is the venerable fat Piedream. 
+[09:43:49] Horses like this one have many uses.
+[09:43:49] It has been branded by and belongs to the settlement of Bragadiru.
+[09:43:49] It is being taken care of by Mada.
+[09:43:49] He is very strong and has a good reserve of fat.
+[09:43:49] This creature could use some grooming.
+[09:43:49] It has fleeter movement than normal. It has a strong body. It has very strong leg muscles. 
+[09:43:49] Its colour is white.
+[09:43:49] The aged fat fierce Walkingtatius grazes.
+[09:43:53] Horses like this one have many uses.
+[09:43:53] It is being taken care of by Andrei.
+[09:43:53] She is very strong and has a good reserve of fat.
+[09:43:53] This creature could use some grooming.
+[09:43:53] It has a strong body. It has lightning movement. It has very strong leg muscles. It looks unusually strong and healthy. 
+[09:43:53] Its colour is black.
+[09:43:56] Horses like this one have many uses.
+[09:43:56] It is being taken care of by Akara.
+[09:43:56] She is very strong and has a good reserve of fat.
+[09:43:56] This creature could use some grooming.
+[09:43:56] It has a strong body. It has lightning movement. It can carry more than average. It has very strong leg muscles. 
+[09:43:56] Its colour is brown.
+[09:43:56] Her father is the venerable fat Piedream. 
+[09:44:07] Horses like this one have many uses.
+[09:44:07] It is being taken care of by Andrei.
+[09:44:07] She is very strong and has a good reserve of fat.
+[09:44:07] This creature could use some grooming.
+[09:44:07] It has fleeter movement than normal. It has a strong body. It has lightning movement. It looks unusually strong and healthy. 
+[09:44:07] Its colour is brown.
+[09:44:12] Horses like this one have many uses.
+[09:44:12] She is very strong and has a good reserve of fat.
+[09:44:12] This creature could use some grooming.
+[09:44:12] It has a strong body. It has lightning movement. It can carry more than average. It has very strong leg muscles. 
+[09:44:12] Its colour is brown.
+[09:44:12] Her mother is the venerable fat Bloodswift. Her father is the venerable fat Nadaclip. 
+[09:44:15] You may now queue 5 actions.
+[09:44:16] Horses like this one have many uses.
+[09:44:16] It is being taken care of by Teocelmare.
+[09:44:16] He is very strong and has a good reserve of fat.
+[09:44:16] This creature could use some grooming.
+[09:44:16] It has fleeter movement than normal. It has a strong body. It has lightning movement. It has very strong leg muscles. 
+[09:44:16] Its colour is grey.
+[09:44:16] His mother is the venerable fat Briskhappy. His father is the venerable fat Nadaclip. 
+[09:44:20] A venerable fat brown cow grazes.
+[09:44:21] Horses like this one have many uses.
+[09:44:21] She is very strong and has a good reserve of fat.
+[09:44:21] This creature could use some grooming.
+[09:44:21] It can carry more than average. 
+[09:44:21] Its colour is appaloosa.
+[09:44:26] Horses like this one have many uses.
+[09:44:26] He is very strong and has a good reserve of fat.
+[09:44:26] This creature could use some grooming.
+[09:44:26] It has fleeter movement than normal. It has a strong body. It has lightning movement. It can carry more than average. 
+[09:44:26] Its colour is brown.
+[09:44:26] His mother is the venerable fat Bloodswift. His father is the venerable fat Nadaclip. 
+[09:44:31] Horses like this one have many uses.
+[09:44:31] She is very strong and has a good reserve of fat.
+[09:44:31] This creature could use some grooming.
+[09:44:31] It has fleeter movement than normal. It is a tough bugger. It has lightning movement. It can carry more than average. It has very strong leg muscles. 
+[09:44:31] Its colour is appaloosa.
+[09:44:31] Her mother is the aged fat Kiablood. Her father is the venerable fat Runebony. 
+[09:44:35] Horses like this one have many uses.
+[09:44:35] She is very strong and has a good reserve of fat.
+[09:44:35] This creature could use some grooming.
+[09:44:35] It has a strong body. It has lightning movement. It can carry more than average. It has very strong leg muscles. 
+[09:44:35] Its colour is brown.
+[09:44:35] Her mother is the venerable fat Bloodswift. Her father is the venerable fat Nadaclip. 
+[09:44:38] Horses like this one have many uses.
+[09:44:38] It is being taken care of by Sirparleazu.
+[09:44:38] She is very strong and has a good reserve of fat.
+[09:44:38] This creature could use some grooming.
+[09:44:38] It has a strong body. It has lightning movement. It can carry more than average. 
+[09:44:38] Its colour is grey.
+[09:44:38] Her father is the venerable fat Piedream. 
+[09:44:43] Horses like this one have many uses.
+[09:44:43] She is very strong and has a good reserve of fat.
+[09:44:43] This creature could use some grooming.
+[09:44:43] It has fleeter movement than normal. It has lightning movement. It can carry more than average. It has very strong leg muscles. It looks unusually strong and healthy. 
+[09:44:43] Its colour is white.
+[09:44:47] Horses like this one have many uses.
+[09:44:47] He is very strong and has a good reserve of fat.
+[09:44:47] This creature could use some grooming.
+[09:44:47] It has fleeter movement than normal. It has a strong body. It has lightning movement. It has very strong leg muscles. It has a certain spark in its eyes. 
+[09:44:47] Its colour is gold.
+[09:44:47] His mother is the venerable fat Eckerkalypso. His father is the venerable fat Piedream. 
+[09:45:02] Horses like this one have many uses.
+[09:45:02] It is being taken care of by Andrei.
+[09:45:02] She is very strong and has a good reserve of fat.
+[09:45:02] This creature could use some grooming.
+[09:45:02] It has a strong body. It has lightning movement. It has very strong leg muscles. It has a certain spark in its eyes. 
+[09:45:02] Its colour is grey.
+[09:45:02] Her father is the venerable fat Kissrun. 
